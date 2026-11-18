@@ -4,7 +4,7 @@
 
 Análise em SQL e Python de um marketplace brasileiro de e-commerce: evolução da receita, categorias de produto, desempenho regional e relação entre atrasos na entrega e satisfação do cliente.
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carolinatkb/olist-sales-performance-analysis/blob/main/notebooks/olist-sales-performance-analysis.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carolinatkb/olist-sales-performance-analysis/blob/main/notebooks/olist_sales_performance_analysis.ipynb)
 
 ## Perguntas de negócio
 
