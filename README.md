@@ -6,7 +6,7 @@ README ENGLISH VERSION
 
 SQL and Python analysis of a Brazilian e-commerce marketplace: revenue trend, product categories, regional performance and the link between delivery delays and customer satisfaction.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carolinatkb/olist-sales-performance-analysis/blob/main/notebooks/olist-sales-performance-analysis.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carolinatkb/olist_sales_performance_analysis/blob/main/notebooks/olist-sales-performance-analysis.ipynb)
 
 ## Business questions
 
